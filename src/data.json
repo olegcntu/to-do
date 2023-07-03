@@ -1,0 +1,116 @@
+{
+  "boards": [
+    {
+      "name": "Development Roadmap",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Backlog",
+          "tasks": [
+            {
+              "title": "Develop MVP features",
+              "description": "Implement the core features required for the Minimum Viable Product.",
+              "status": "Todo"
+            },
+            {
+              "title": "Refactor codebase",
+              "description": "Improve code structure and optimize performance.",
+              "status": "Todo"
+            },
+            {
+              "title": "Implement user feedback",
+              "description": "Incorporate user feedback and make necessary adjustments.",
+              "status": "Todo"
+            }
+          ]
+        },
+        {
+          "name": "In Progress",
+          "tasks": [
+            {
+              "title": "Design database schema",
+              "description": "Create a well-structured database schema for the application.",
+              "status": "Doing"
+            },
+            {
+              "title": "Integrate third-party APIs",
+              "description": "Connect the application with external APIs for additional functionality.",
+              "status": "Doing"
+            }
+          ]
+        },
+        {
+          "name": "Completed",
+          "tasks": [
+            {
+              "title": "Write automated tests",
+              "description": "Create test cases to ensure the reliability of the application.",
+              "status": "Done"
+            },
+            {
+              "title": "Deploy to production",
+              "description": "Release the application to the production environment.",
+              "status": "Done"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing Plan",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Ideas",
+          "tasks": [
+            {
+              "title": "Plan social media campaigns",
+              "description": "Create strategies for promoting the product on various social media platforms.",
+              "status": "Todo"
+            },
+            {
+              "title": "Collaborate with influencers",
+              "description": "Partner with influencers to reach a wider audience.",
+              "status": "Todo"
+            },
+            {
+              "title": "Create marketing materials",
+              "description": "Design and produce marketing materials such as brochures and banners.",
+              "status": "Todo"
+            }
+          ]
+        },
+        {
+          "name": "Execution",
+          "tasks": [
+            {
+              "title": "Run Google Ads campaign",
+              "description": "Set up and manage advertising campaigns on Google Ads.",
+              "status": "Doing"
+            },
+            {
+              "title": "Organize product launch event",
+              "description": "Plan and execute a launch event to create buzz around the product.",
+              "status": "Doing"
+            }
+          ]
+        },
+        {
+          "name": "Results",
+          "tasks": [
+            {
+              "title": "Analyze marketing metrics",
+              "description": "Monitor and analyze key performance indicators to evaluate the effectiveness of marketing efforts.",
+              "status": "Done"
+            },
+            {
+              "title": "Generate marketing reports",
+              "description": "Compile data and create reports to present the results of marketing campaigns.",
+              "status": "Done"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
